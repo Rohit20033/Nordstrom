@@ -1,0 +1,31 @@
+{
+  "email": [
+    {
+      "id": 1,
+      "user_email": "ram123@gmail.com",
+      "first_name": "Ram",
+      "last_name": "prajapat",
+      "user_password": "ram123"
+    },
+    {
+      "id": 2,
+      "user_email": "k123@gmail.com",
+      "first_name": "K",
+      "last_name": "raj",
+      "user_password": "k212"
+    },
+    {
+      "id": 3,
+      "user_email": "karan@gmail.com",
+      "first_name": "karan",
+      "last_name": "joshi",
+      "user_password": "karanme"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ]
+}
