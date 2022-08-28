@@ -1,0 +1,46 @@
+{
+  "email": [
+    {
+      "id": 1,
+      "user_email": "ram123@gmail.com",
+      "first_name": "Ram",
+      "last_name": "prajapat",
+      "user_password": "ram123"
+    },
+    {
+      "id": 2,
+      "user_email": "k123@gmail.com",
+      "first_name": "K",
+      "last_name": "raj",
+      "user_password": "k212"
+    },
+    {
+      "id": 3,
+      "user_email": "karan@gmail.com",
+      "first_name": "karan",
+      "last_name": "joshi",
+      "user_password": "karanme"
+    },
+    {
+      "first_name": "rohit",
+      "last_name": "prajapat",
+      "user_password": "rohit123",
+      "user_email": "rohitkumarprajpat303@gmail.com",
+      "id": 4
+    },
+    {
+      "first_name": "akash",
+      "last_name": "rao",
+      "user_password": "raoshab",
+      "user_email": "akash12@gmail.com",
+      "id": 5
+    },
+    {
+      "first_name": "Rishab",
+      "last_name": "Rao",
+      "user_password": "Rishab09",
+      "user_email": "rishabrao@gmail.com",
+      "id": 6
+    }
+  ]
+}
